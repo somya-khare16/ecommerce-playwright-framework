@@ -1,0 +1,25 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Generated test artifacts
+test-results/
+screenshots/
+logs/
+reports/
+
+# Sensitive local environment values
+.env 
+
+# VS Code workspace settings
+.vscode/
+
+# My notes
+*_notes.txt
+
+# These files are useful locally, but GitHub should receive your source code—not
+# temporary browser artifacts, logs, or your virtual environment.
