@@ -1,5 +1,8 @@
 # E-Commerce Test Automation Framework
 
+![Playwright Tests](https://github.com/somya-khare16/ecommerce-playwright-framework/actions/workflows/tests.yml/badge.svg)
+
+
 An end-to-end test automation framework built with Python, Playwright, and pytest.
 
 The framework automates key customer journeys on [SauceDemo](https://www.saucedemo.com/) using the Page Object Model design pattern.
